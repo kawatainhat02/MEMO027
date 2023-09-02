@@ -18,6 +18,6 @@ from(bucket:"example-bucket")
   )
 
 gl_Position = gl_Matrices[] *object_space;
-limit
+limit("Hello")
 
 #group
