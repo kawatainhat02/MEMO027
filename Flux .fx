@@ -16,3 +16,8 @@ from(bucket:"example-bucket")
     r._measurement == "my-measurement" and
     r.my-tag-key == "my-tag-value"
   )
+
+gl_Position = gl_Matrices[] *object_space;
+limit
+
+#group
